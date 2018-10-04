@@ -131,6 +131,16 @@ angular.module('app').config(
                             }
                         ]
                     }
+                }).state('master.kelas', {
+                    url: '/kelas',
+                    templateUrl: 'tpl/m_kelas/index.html',
+                    resolve: {
+                        deps: ['$ocLazyLoad',
+                            function($ocLazyLoad) {
+                                return $ocLazyLoad.load('tpl/m_kelas/index.js');
+                            }
+                        ]
+                    }
                 })
 
                 /** Router laporan */

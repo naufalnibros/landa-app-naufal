@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cahkampung052/landadb.git",
-                "reference": "af56afac5ee7fff09304f1b8962f2710bb12f370"
+                "reference": "72d6ab51d06f1c55fd98953af13395eee2f70916"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cahkampung052/landadb/zipball/af56afac5ee7fff09304f1b8962f2710bb12f370",
-                "reference": "af56afac5ee7fff09304f1b8962f2710bb12f370",
+                "url": "https://api.github.com/repos/cahkampung052/landadb/zipball/72d6ab51d06f1c55fd98953af13395eee2f70916",
+                "reference": "72d6ab51d06f1c55fd98953af13395eee2f70916",
                 "shasum": ""
             },
             "require": {
@@ -33,7 +33,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "DBAD"
+                "AFL-1.1"
             ],
             "authors": [
                 {
@@ -48,7 +48,7 @@
                 "pdo",
                 "slim"
             ],
-            "time": "2018-01-09 08:09:10"
+            "time": "2018-09-06 06:06:53"
         },
         {
             "name": "cahkampung/landa-migrasi",
@@ -431,16 +431,16 @@
         },
         {
             "name": "slim/slim",
-            "version": "3.10.0",
+            "version": "3.11.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/slimphp/Slim.git",
-                "reference": "d8aabeacc3688b25e2f2dd2db91df91ec6fdd748"
+                "reference": "d378e70431e78ee92ee32ddde61ecc72edf5dc0a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/slimphp/Slim/zipball/d8aabeacc3688b25e2f2dd2db91df91ec6fdd748",
-                "reference": "d8aabeacc3688b25e2f2dd2db91df91ec6fdd748",
+                "url": "https://api.github.com/repos/slimphp/Slim/zipball/d378e70431e78ee92ee32ddde61ecc72edf5dc0a",
+                "reference": "d378e70431e78ee92ee32ddde61ecc72edf5dc0a",
                 "shasum": ""
             },
             "require": {
@@ -498,20 +498,20 @@
                 "micro",
                 "router"
             ],
-            "time": "2018-04-19 19:29:08"
+            "time": "2018-09-16 10:54:21"
         },
         {
             "name": "symfony/config",
-            "version": "v3.4.11",
+            "version": "v3.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/config.git",
-                "reference": "73e055cf2e6467715f187724a0347ea32079967c"
+                "reference": "e5389132dc6320682de3643091121c048ff796b3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/config/zipball/73e055cf2e6467715f187724a0347ea32079967c",
-                "reference": "73e055cf2e6467715f187724a0347ea32079967c",
+                "url": "https://api.github.com/repos/symfony/config/zipball/e5389132dc6320682de3643091121c048ff796b3",
+                "reference": "e5389132dc6320682de3643091121c048ff796b3",
                 "shasum": ""
             },
             "require": {
@@ -562,20 +562,20 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "https://symfony.com",
-            "time": "2018-05-14 16:49:53"
+            "time": "2018-09-08 13:15:14"
         },
         {
             "name": "symfony/console",
-            "version": "v3.4.11",
+            "version": "v3.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "36f83f642443c46f3cf751d4d2ee5d047d757a27"
+                "reference": "1cbaac35024c9dfc9612b7e2310e82677bf85709"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/36f83f642443c46f3cf751d4d2ee5d047d757a27",
-                "reference": "36f83f642443c46f3cf751d4d2ee5d047d757a27",
+                "url": "https://api.github.com/repos/symfony/console/zipball/1cbaac35024c9dfc9612b7e2310e82677bf85709",
+                "reference": "1cbaac35024c9dfc9612b7e2310e82677bf85709",
                 "shasum": ""
             },
             "require": {
@@ -631,20 +631,20 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2018-05-16 08:49:21"
+            "time": "2018-09-30 03:37:36"
         },
         {
             "name": "symfony/debug",
-            "version": "v3.4.11",
+            "version": "v3.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/debug.git",
-                "reference": "b28fd73fefbac341f673f5efd707d539d6a19f68"
+                "reference": "b70cfaae39009ecde3164bb8cba4d029220d27b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/debug/zipball/b28fd73fefbac341f673f5efd707d539d6a19f68",
-                "reference": "b28fd73fefbac341f673f5efd707d539d6a19f68",
+                "url": "https://api.github.com/repos/symfony/debug/zipball/b70cfaae39009ecde3164bb8cba4d029220d27b1",
+                "reference": "b70cfaae39009ecde3164bb8cba4d029220d27b1",
                 "shasum": ""
             },
             "require": {
@@ -687,20 +687,20 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2018-05-16 14:03:39"
+            "time": "2018-09-22 18:25:03"
         },
         {
             "name": "symfony/filesystem",
-            "version": "v3.4.11",
+            "version": "v3.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/filesystem.git",
-                "reference": "8e03ca3fa52a0f56b87506f38cf7bd3f9442b3a0"
+                "reference": "f89ab242d915d188fca95ee3291c72c5a094a195"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/filesystem/zipball/8e03ca3fa52a0f56b87506f38cf7bd3f9442b3a0",
-                "reference": "8e03ca3fa52a0f56b87506f38cf7bd3f9442b3a0",
+                "url": "https://api.github.com/repos/symfony/filesystem/zipball/f89ab242d915d188fca95ee3291c72c5a094a195",
+                "reference": "f89ab242d915d188fca95ee3291c72c5a094a195",
                 "shasum": ""
             },
             "require": {
@@ -737,29 +737,32 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2018-05-16 08:49:21"
+            "time": "2018-09-30 03:32:28"
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.8.0",
+            "version": "v1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "7cc359f1b7b80fc25ed7796be7d96adc9b354bae"
+                "reference": "e3d826245268269cd66f8326bd8bc066687b4a19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/7cc359f1b7b80fc25ed7796be7d96adc9b354bae",
-                "reference": "7cc359f1b7b80fc25ed7796be7d96adc9b354bae",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/e3d826245268269cd66f8326bd8bc066687b4a19",
+                "reference": "e3d826245268269cd66f8326bd8bc066687b4a19",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.3"
             },
+            "suggest": {
+                "ext-ctype": "For best performance"
+            },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.8-dev"
+                    "dev-master": "1.9-dev"
                 }
             },
             "autoload": {
@@ -792,20 +795,20 @@
                 "polyfill",
                 "portable"
             ],
-            "time": "2018-04-30 19:57:29"
+            "time": "2018-08-06 14:22:27"
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.8.0",
+            "version": "v1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "3296adf6a6454a050679cde90f95350ad604b171"
+                "reference": "d0cd638f4634c16d8df4508e847f14e9e43168b8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/3296adf6a6454a050679cde90f95350ad604b171",
-                "reference": "3296adf6a6454a050679cde90f95350ad604b171",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/d0cd638f4634c16d8df4508e847f14e9e43168b8",
+                "reference": "d0cd638f4634c16d8df4508e847f14e9e43168b8",
                 "shasum": ""
             },
             "require": {
@@ -817,7 +820,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.8-dev"
+                    "dev-master": "1.9-dev"
                 }
             },
             "autoload": {
@@ -851,20 +854,20 @@
                 "portable",
                 "shim"
             ],
-            "time": "2018-04-26 10:06:28"
+            "time": "2018-08-06 14:22:27"
         },
         {
             "name": "symfony/yaml",
-            "version": "v3.4.11",
+            "version": "v3.4.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
-                "reference": "c5010cc1692ce1fa328b1fb666961eb3d4a85bb0"
+                "reference": "61973ecda60e9f3561e929e19c07d4878b960fc1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/yaml/zipball/c5010cc1692ce1fa328b1fb666961eb3d4a85bb0",
-                "reference": "c5010cc1692ce1fa328b1fb666961eb3d4a85bb0",
+                "url": "https://api.github.com/repos/symfony/yaml/zipball/61973ecda60e9f3561e929e19c07d4878b960fc1",
+                "reference": "61973ecda60e9f3561e929e19c07d4878b960fc1",
                 "shasum": ""
             },
             "require": {
@@ -910,32 +913,32 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2018-05-03 23:18:14"
+            "time": "2018-09-24 08:15:45"
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v2.4.0",
+            "version": "v2.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "3cc116adbe4b11be5ec557bf1d24dc5e3a21d18c"
+                "reference": "8abb4f9aa89ddea9d52112c65bbe8d0125e2fa8e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/3cc116adbe4b11be5ec557bf1d24dc5e3a21d18c",
-                "reference": "3cc116adbe4b11be5ec557bf1d24dc5e3a21d18c",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/8abb4f9aa89ddea9d52112c65bbe8d0125e2fa8e",
+                "reference": "8abb4f9aa89ddea9d52112c65bbe8d0125e2fa8e",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3.9"
             },
             "require-dev": {
-                "phpunit/phpunit": "^4.8 || ^5.0"
+                "phpunit/phpunit": "^4.8.35 || ^5.0"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "2.4-dev"
+                    "dev-master": "2.5-dev"
                 }
             },
             "autoload": {
@@ -945,7 +948,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "BSD-3-Clause-Attribution"
+                "BSD-3-Clause"
             ],
             "authors": [
                 {
@@ -960,7 +963,7 @@
                 "env",
                 "environment"
             ],
-            "time": "2016-09-01 10:05:43"
+            "time": "2018-07-29 20:33:41"
         },
         {
             "name": "wixel/gump",
@@ -968,12 +971,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Wixel/GUMP.git",
-                "reference": "ae496aa5e3683186953090e0f8d1d0d62d699cdd"
+                "reference": "b32c92206fb7014a40179b8468ba8bab90b3f879"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Wixel/GUMP/zipball/ae496aa5e3683186953090e0f8d1d0d62d699cdd",
-                "reference": "ae496aa5e3683186953090e0f8d1d0d62d699cdd",
+                "url": "https://api.github.com/repos/Wixel/GUMP/zipball/b32c92206fb7014a40179b8468ba8bab90b3f879",
+                "reference": "b32c92206fb7014a40179b8468ba8bab90b3f879",
                 "shasum": ""
             },
             "type": "library",
@@ -998,7 +1001,7 @@
             ],
             "description": "A fast, extensible & stand-alone PHP input validation class that allows you to validate any data",
             "homepage": "https://wixelhq.com/",
-            "time": "2018-02-28 12:59:41"
+            "time": "2018-06-02 23:09:34"
         }
     ],
     "packages-dev": [],

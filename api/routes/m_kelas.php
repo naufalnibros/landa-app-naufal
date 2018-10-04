@@ -68,25 +68,9 @@ $app->get('/m_kelas/index', function ($request, $response) {
     }
 
     $modelss = $db->findAll();
-
-
-    $models = array();
-    foreach ($modelss as $key => $value) {
-        $models[$key]['id'] = $value->id;
-        $models[$key]['nama'] = $value->nama;
-        $models[$key]['kode'] = $value->kode;
-
-        $cabang = $db->find("SELECT * FROM m_cabang WHERE id = {$value->cabang_id}");
-
-        $models[$key]['cabang'] = $cabang;
-        $models[$key]['cabang_id'] = $value->cabang_id;
-        $models[$key]['is_deleted'] = $value->is_deleted;
-    }
-
     $totalItem = $db->count();
 
-
-    return successResponse($response, ['list' => $modelso, 'totalItems' => $totalItem]);
+    return successResponse($response, ['list' => $modelss, 'totalItems' => $totalItem]);
 });
 
 /**
