@@ -1,6 +1,5 @@
 vendor/
 /nbproject/private/
-.env
 file/
 
 img/logo.*
