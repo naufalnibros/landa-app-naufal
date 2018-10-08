@@ -154,7 +154,6 @@ app.controller('rolesCtrl', function($scope, Data, toaster) {
         var akses = {
             "master_roles": false,
             "master_user": false,
-            "master_kelas" : false,
         };
         angular.forEach(akses, function($value, $key) {
             if ($key.indexOf(module) >= 0) $scope.form.akses[$key] = valueCheck;
